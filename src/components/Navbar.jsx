@@ -5,6 +5,7 @@ export default function NavBar() {
     return (
         <nav>
             <Link to="/">AllPlayers</Link>
+            <Link to="/addNew">Add New Player</Link>
         </nav>
     );
 }
